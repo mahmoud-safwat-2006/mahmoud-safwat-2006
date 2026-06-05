@@ -1,21 +1,25 @@
 # Hello, I'm Mahmoud Safwat ! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&vCenter=true&width=435&lines=Full-stack+Developer+💻;Mobile+App+Developer+📱;IT+Trainee+🚀)](https://git.io/typing-svg)
+### Full-stack & Mobile Developer 💻 | IT Trainee 🚀
 
-### About Me
-Hello! I am a 20-year-old Full-Stack & Mobile Developer, and a student at the Faculty of Computers and Information, Mansoura University. 🎓
+Hello! I am a 20-year-old developer and a student at the Faculty of Computers and Information, Mansoura University. 🎓
 
 I have a strong passion for building clean architectures, pixel-perfect UI/UX replications, and robust backend systems. 
 
-* 🔭 I’m currently building: E-commerce replicas and cross-platform mobile apps.
-* 🌱 My main stack: **React, Next.js, Node.js, TypeScript, Flutter, and React Native**.
+### 🚀 Featured Projects
+*   🛒 **Noon & Spinneys E-commerce Replicas:** UI clones using Next.js & Tailwind CSS (The Noon clone is currently in active development to ensure precise 1:1 alignment with the original behavior and spacing).
+*   🚗 **Ride-Hailing Architecture:** A comprehensive ride-hailing application built with Flutter & Node.js.
+*   📚 **Madar LMS:** An educational Learning Management System designed to organize learning journeys.
+*   🛡️ **Shiny Garage:** Backend API featuring advanced security protocols and order management.
+
+### ⚡ Quick Facts
+* 🌱 **My main stack:** React, Next.js, Node.js, TypeScript, Flutter, and React Native.
 * 👯 I’m looking to collaborate on: Open-source web and mobile projects.
-* 📫 How to reach me: [LinkedIn](حط-رابط-لينكد-إن-هنا) | [Twitter](حط-رابط-تويتر-هنا)
-* ⚡ Fun fact: I rely on a Galaxy Tab A7 as my trusty secondary display while coding!
+* 💻 **Workflow:** I often integrate AI into my development cycle and rely on my Galaxy Tab A7 as a trusty secondary display!
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -27,5 +31,8 @@ I have a strong passion for building clean architectures, pixel-perfect UI/UX re
 
 ---
 
-### GitHub Stats:
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-safwat-2006&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-safwat-2006&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
