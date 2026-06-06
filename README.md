@@ -7,6 +7,7 @@ Hello! I am a 20-year-old developer and a student at the Faculty of Computers an
 I have a strong passion for building clean architectures, pixel-perfect UI/UX replications, and robust backend systems. 
 
 ### 🚀 Featured Projects
+*   🎨 **[Ant Design UI Clone](https://github.com/mahmoud-safwat-2006/ant-design-clone):** A pixel-perfect UI replica of the Ant Design landing page, showcasing advanced Dark/Light mode implementations.
 *   🛒 **Noon & Spinneys E-commerce Replicas:** UI clones using Next.js & Tailwind CSS (The Noon clone is currently in active development to ensure precise 1:1 alignment with the original behavior and spacing).
 *   🚗 **Ride-Hailing Architecture:** A comprehensive ride-hailing application built with Flutter & Node.js.
 *   📚 **Madar LMS:** An educational Learning Management System designed to organize learning journeys.
