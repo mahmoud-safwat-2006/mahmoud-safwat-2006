@@ -1,66 +1,56 @@
 <div align="center">
-  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design Logo" width="120" />
-
-  <h1>Ant Design Landing Page Clone</h1>
-
-  <p>
-    <em>A Pixel-Perfect, High-Fidelity UI/UX Replication of the Enterprise-Class React UI Library</em>
-  </p>
-
-  <p>
-    <a href="https://github.com/mahmoud-safwat-2006/ant-design-clone/stargazers"><img src="https://img.shields.io/github/stars/mahmoud-safwat-2006/ant-design-clone?style=for-the-badge&color=fae3b0" alt="Stars Badge"/></a>
-    <a href="https://github.com/mahmoud-safwat-2006/ant-design-clone/network/members"><img src="https://img.shields.io/github/forks/mahmoud-safwat-2006/ant-design-clone?style=for-the-badge&color=38b2ac" alt="Forks Badge"/></a>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
+  <h1>Hi there, I'm Mahmoud Safwat! 👋</h1>
+  <h3>Full-Stack & Mobile Developer 💻 | IT Trainee 🚀</h3>
+  <p><i>Building pixel-perfect interfaces, robust architectures, and scalable backends.</i></p>
 </div>
 
-<br />
+---
 
-## 📖 About The Architecture
-
-This project is not just a visual copy; it is a deep dive into enterprise-level frontend architecture. The goal was to reverse-engineer the official Ant Design (v6.0) landing page to master complex grid systems, dynamic CSS-in-JS theming, and precise interactive behaviors.
-
-### 🎯 Core Engineering Focus
-*   **Absolute Pixel-Perfect Alignment:** Ensuring strict adherence to the original site's spacing, typography scales, and geometric positioning without relying on UI component libraries.
-*   **Dynamic Theming Engine:** Implementing a robust Light/Dark mode toggle that smoothly transitions colors and assets, mirroring Ant Design's native behavior.
-*   **Responsive Fluidity:** Adapting complex nested layouts to maintain structural integrity across mobile, tablet, and ultra-wide displays.
+### 👨‍💻 About Me
+- 🎓 20-year-old student at the **Faculty of Computers and Information, Mansoura University**.
+- 💡 Passionate about crafting high-fidelity UI/UX replications and complex enterprise-level systems.
+- 💻 **Workflow:** I actively integrate AI tools into my development cycle and utilize a Galaxy Tab A7 as an extended display for maximum productivity.
 
 ---
 
-## 📸 Visual Showcase
-
-*(Coming Soon - Screenshots of the pixel-perfect implementation will be uploaded here)*
-
-| ☀️ Light Theme | 🌙 Dark Theme |
-| :---: | :---: |
-| `[Upload Light Mode Screenshot Here]` | `[Upload Dark Mode Screenshot Here]` |
-| Strict adherence to Ant Design's bright, corporate aesthetic. | High-contrast, accessibility-focused dark mode execution. |
+### ⚙️ My Engineering Philosophy
+> **Architecture First:** Building scalable mobile applications utilizing **Clean Architecture** and robust state management like **Riverpod**.
+> 
+> **Pixel-Perfect Precision:** Obsessed with high-fidelity UI/UX replication, ensuring strict adherence to original design spacing, typography, and interactive behaviors.
+> 
+> **Security & Performance:** Developing reliable backends focusing on secure APIs, complex logic, and order management.
 
 ---
 
-## 🛠️ Technical Stack
+### 🚀 Featured Projects
 
-This project was built from the ground up using modern web technologies:
-
-*   **Core Framework:** React 18
-*   **Language:** TypeScript (for predictable static types)
-*   **Styling:** Custom CSS / CSS Modules (to maintain zero layout shifts)
-*   **Version Control:** Git & GitHub
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🎨 **[Ant Design Clone](https://github.com/mahmoud-safwat-2006/ant-design-clone)** | A high-fidelity, pixel-perfect replica of the Ant Design landing page featuring advanced Dark/Light mode implementations. | `React` `UI/UX` |
+| 🛒 **Noon E-commerce Replica** | Currently in active development, ensuring precise 1:1 alignment with the original site's spacing and interactive behavior. | `Next.js` `Tailwind` |
+| 📚 **Madar LMS** | An educational Learning Management System built to organize and streamline learning journeys. | `Full-stack` |
+| 🛡️ **Shiny Garage** | Robust backend API featuring advanced security protocols and complex order management systems. | `Node.js` `Security` |
+| 🚗 **Ride-Hailing Architecture** | Comprehensive infrastructure and architecture designed for a modern ride-hailing service. | `Flutter` `Node.js` |
 
 ---
 
-## 📂 Project Structure
+### 🛠️ Tech Stack & Tools
 
-A glimpse into the clean, maintainable folder architecture used in this project:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-```text
-📦 src
- ┣ 📂 assets            # Static images, SVGs, and fonts
- ┣ 📂 components        # Reusable UI elements (Buttons, Navbars, Cards)
- ┃ ┣ 📂 Layout          # Header, Footer, and Grid wrappers
- ┃ ┗ 📂 Showcase        # Interactive hero sections and feature displays
- ┣ 📂 hooks             # Custom React hooks (e.g., useTheme, useWindowSize)
- ┣ 📂 styles            # Global variables, mixins, and theme tokens
- ┣ 📜 App.tsx           # Main application root
- ┗ 📜 index.tsx         # Entry point
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-safwat-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-safwat-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
