@@ -1,12 +1,9 @@
-<div align="center">
+
   # Hello, I'm Mahmoud Safwat ! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&vCenter=true&width=435&lines=Full-stack+Developer+💻;Mobile+App+Developer+📱;IT+Trainee+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2196F3&vCenter=true&width=435&lines=Full-stack+Developer+💻;Mobile+App+Developer+📱;IT+Trainee+🚀)](https://git.io/typing-svg)
 
-  <h3>Full-Stack & Mobile Developer 💻 | IT Trainee 🚀</h3>
-  <p><i>Building pixel-perfect interfaces, robust architectures, and scalable backends.</i></p>
-</div>
-
+  
 ---
 
 ### 👨‍💻 About Me
